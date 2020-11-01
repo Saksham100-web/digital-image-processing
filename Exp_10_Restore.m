@@ -1,5 +1,5 @@
 %To study and perform Image Restoration using Wiener Filters. 
-%SARTAJVIR SINGH
+%saksham khajuria
 %DIP EXPERIMENT 10
 i=im2double(imread('Sun.jpg'));
 subplot (3,2,1);
